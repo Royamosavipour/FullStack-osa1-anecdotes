@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/FullStack-osa1-anecdotes/static/js/main.8f4b2ddd.js",
+    "index.html": "/FullStack-osa1-anecdotes/index.html",
+    "main.8f4b2ddd.js.map": "/FullStack-osa1-anecdotes/static/js/main.8f4b2ddd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8f4b2ddd.js"
+  ]
+}
